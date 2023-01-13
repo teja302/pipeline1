@@ -1,2 +1,2 @@
-FROM raushan8586/webapp
+FROM httpd
 ADD . /usr/local/apache2/htdocs
